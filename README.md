@@ -24,5 +24,10 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
+<div align="center"> 
+<a href = "mailto:enzomarco@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=db4a39 " target="_blank"></a>
+<a href="https://www.linkedin.com/in/enzomarco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5DEB3&height=120&section=footer"/>
